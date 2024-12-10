@@ -1,0 +1,39 @@
+Privacy Policy for Workbuddy Extension
+Effective Date: 10-Dec 2024
+
+Workbuddy is committed to protecting your privacy. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your data.
+
+1. Data Collection
+Workbuddy collects the following data to provide its functionality:
+
+Blocked Websites List: The websites you add to your blocklist.
+Extension Settings: Your preferences, such as schedule settings and other configurations.
+No personally identifiable information (PII) is collected.
+
+2. Data Usage
+The data collected is used solely to:
+
+Block user-specified websites.
+Enforce user-configured settings, such as schedules and preferences.
+We do not sell, share, or use your data for any purpose other than providing and improving the extension's functionality.
+
+3. Data Storage
+All data collected by the extension is stored locally on your device. We do not transmit or store your data on external servers or third-party systems.
+
+4. Permissions
+The extension requires certain permissions (e.g., storage, host permissions) to function correctly. These permissions are used strictly to enable core functionality, such as storing user settings and blocking access to specified websites.
+
+5. Data Sharing
+We do not share your data with third parties under any circumstances.
+
+6. User Rights
+You have full control over the data stored by the extension. You can:
+
+Edit your blocklist and preferences at any time.
+Uninstall the extension, which will delete all locally stored data.
+7. Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. We will notify users of significant changes by updating the Effective Date at the top of this policy.
+
+8. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at: csytang.uk@gmail.com
+
