@@ -1,0 +1,43 @@
+Privacy Policy for Healthy Eye Reminder Extension
+Effective Date: 10-Dec-2024
+
+Healthy Eye Reminder is committed to protecting your privacy. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your data.
+
+1. Data Collection
+Healthy Eye Reminder collects the following data to provide its functionality:
+
+Work and Rest Intervals: The durations you configure for work and rest periods.
+Extension Preferences: Your preferences for reminder settings.
+No personally identifiable information (PII) is collected.
+
+2. Data Usage
+The data collected is used solely to:
+
+Notify you to take breaks based on your configured schedule.
+Customize reminders and enforce your preferred settings.
+We do not sell, share, or use your data for any purpose other than providing and improving the extension's functionality.
+
+3. Data Storage
+All data collected by the extension is stored locally on your device. We do not transmit or store your data on external servers or third-party systems.
+
+4. Permissions
+The extension requires certain permissions to function correctly, including:
+
+Storage Permission: To store your preferences and configurations locally.
+Notification Permission: To send reminders for breaks.
+These permissions are used strictly to enable core functionality.
+
+5. Data Sharing
+We do not share your data with third parties under any circumstances.
+
+6. User Rights
+You have full control over the data stored by the extension. You can:
+
+Edit your work and rest intervals, and other preferences, at any time.
+Uninstall the extension, which will delete all locally stored data.
+7. Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. Significant changes will be communicated by updating the Effective Date at the top of this policy.
+
+8. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+csytang.uk@gmail.com
